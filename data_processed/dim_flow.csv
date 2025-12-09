@@ -1,5 +1,5 @@
-reporterDesc,flowCode
-DX,Domestic Export
-FM,Foreign Import
-RM,Re-import
-RX,Re-export
+reporterDesc,flowCode,flowGroup,flowType
+DX,Domestic Export,Export,Standard
+FM,Foreign Import,Import,Standard
+RM,Re-import,Import,Repeated
+RX,Re-export,Export,Repeated
