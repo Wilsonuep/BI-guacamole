@@ -1,6 +1,7 @@
 mosCode,motCode,motSpeedClass,motCostClass,motAvgCostTon
-1000,Air,Fast,High,1.00
+0,TOTAL MOT,,,
+1000,Air,Fast,High,1.0
+3000,Land,Medium,Medium,0.07
 3200,Road,Medium,Medium,0.1
-3100,Railway,,,
-2000,Water,,,
-3000,Land,,,
+3100,Railway,Medium,Medium,0.04
+2000,Water,Slow,Low,0.02

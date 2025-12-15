@@ -1,5 +1,5 @@
 customsCode,isLeaf,clearenceEndUse,clearenceIsRepeated,clearenceIsDomestic
 TOTAL CPC,C00,No,No,No
+Clearance for home use,C01,Yes,No,No
 Outright exportation,C03,Yes,No,No
 Reimportation in the same state,C02,No,Yes,Yes
-Clearance for home use,C01,Yes,No,No
